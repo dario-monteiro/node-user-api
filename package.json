@@ -1,5 +1,5 @@
 {
-  "name": "user-sign-api",
+  "name": "node-user-api",
   "version": "1.0.0",
   "description": "User Sign Up / Sign In API",
   "main": "src/index.js",
